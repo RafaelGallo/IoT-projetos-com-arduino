@@ -1,2 +1,8 @@
 # IoT
-Projeto de automação residencial feito com arduino uno.  
+Projeto de automação com arduino.
+
+# Projetos
+Projetos realizados com arduino. 
+
+# Robô
+Robo para batalha de robô.
